@@ -1,3 +1,5 @@
+
+#Funcion sin parametros
 def mensaje():
     print("Estamos aprendiendo Python")
     print("Estamos aprendiendo instrucciones básicas")

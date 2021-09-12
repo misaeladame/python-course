@@ -1,3 +1,4 @@
+# Funcion con parametros que no devuelve nada
 def suma(num1, num2):
     print(num1 + num2)
 
@@ -7,7 +8,7 @@ suma(2, 3)
 
 suma(35, 358)
 
-
+# Funcion con parametros que devuelve un resultado
 def sumar(num1, num2):
     resultado = num1 + num2
     return resultado
