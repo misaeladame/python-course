@@ -3,7 +3,7 @@ print(midiccionario["Francia"])
 print(midiccionario["Mexico"])
 print(midiccionario)
 
-# Agreagr un elemento al diccionario
+# Agregar un elemento al diccionario
 midiccionario["Italia"] = "Lisboa"
 print(midiccionario)
 

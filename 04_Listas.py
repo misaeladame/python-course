@@ -45,7 +45,7 @@ print("Leonel" in miLista)
 
 
 
-# Lista con elementos de diferente tipoi
+# Lista con elementos de diferente tipo
 miLista2 = ["Maria", 5, True, 78.35]
 print(miLista2[:])
 print(miLista2[2])

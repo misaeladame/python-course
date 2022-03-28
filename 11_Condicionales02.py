@@ -11,6 +11,6 @@ salario_administrativo = int(input("Introduce salario Administrativo "))
 print("Salario administrativo: " +str(salario_administrativo))
 
 if salario_administrativo < salario_jefe_area < salario_director < salario_presidente:
-    print("Todo funciona correctamente")
+  print("Todo funciona correctamente")
 else:
-    print("Algo anda mal en esta empresa")
+  print("Algo anda mal en esta empresa")
